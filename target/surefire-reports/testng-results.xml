@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-05T19:35:01 IST" name="Command line suite" finished-at="2020-04-05T19:35:38 IST" duration-ms="37092">
+    <groups>
+    </groups>
+    <test started-at="2020-04-05T19:35:01 IST" name="Command line test" finished-at="2020-04-05T19:35:38 IST" duration-ms="37092">
+      <class name="QAPractice.MavenNewProject.PracticeTest">
+        <test-method signature="abc()[pri:0, instance:QAPractice.MavenNewProject.PracticeTest@55b7a4e0]" started-at="2020-04-05T19:35:25 IST" name="abc" finished-at="2020-04-05T19:35:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+        <test-method signature="abd()[pri:0, instance:QAPractice.MavenNewProject.PracticeTest@55b7a4e0]" started-at="2020-04-05T19:35:25 IST" name="abd" finished-at="2020-04-05T19:35:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abd -->
+      </class> <!-- QAPractice.MavenNewProject.PracticeTest -->
+      <class name="QAPractice.MavenNewProject.SeleniumTest">
+        <test-method signature="URL()[pri:0, instance:QAPractice.MavenNewProject.SeleniumTest@5f058f00]" started-at="2020-04-05T19:35:25 IST" name="URL" finished-at="2020-04-05T19:35:38 IST" duration-ms="12240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL -->
+      </class> <!-- QAPractice.MavenNewProject.SeleniumTest -->
+      <class name="QAPractice.MavenNewProject.AmazonTest">
+        <test-method signature="URLNEW()[pri:0, instance:QAPractice.MavenNewProject.AmazonTest@6eda5c9]" started-at="2020-04-05T19:35:01 IST" name="URLNEW" finished-at="2020-04-05T19:35:25 IST" duration-ms="24770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URLNEW -->
+      </class> <!-- QAPractice.MavenNewProject.AmazonTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

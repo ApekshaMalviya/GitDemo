@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-31T18:09:40Z" name="Suite" finished-at="2020-03-31T18:09:58Z" duration-ms="17942">
+    <groups>
+    </groups>
+    <test started-at="2020-03-31T18:09:40Z" name="Test" finished-at="2020-03-31T18:09:58Z" duration-ms="17942">
+      <class name="QAPractice.MavenNewProject.Practice">
+        <test-method signature="URL()[pri:0, instance:QAPractice.MavenNewProject.Practice@5c90e579]" started-at="2020-03-31T18:09:40Z" name="URL" finished-at="2020-03-31T18:09:58Z" duration-ms="17870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL -->
+      </class> <!-- QAPractice.MavenNewProject.Practice -->
+      <class name="QAPractice.MavenNewProject.Practice2">
+        <test-method signature="abc()[pri:0, instance:QAPractice.MavenNewProject.Practice2@1dac5ef]" started-at="2020-03-31T18:09:40Z" name="abc" finished-at="2020-03-31T18:09:40Z" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+        <test-method signature="abd()[pri:0, instance:QAPractice.MavenNewProject.Practice2@1dac5ef]" started-at="2020-03-31T18:09:40Z" name="abd" finished-at="2020-03-31T18:09:40Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abd -->
+      </class> <!-- QAPractice.MavenNewProject.Practice2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
